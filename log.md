@@ -6,5 +6,5 @@
 
 **Thoughts:** Struggle to understand fully how looping and iterations work. Once I get the hang of this it should make coding far easier.
 
-**Link to work:** 
+**Link to work:** https://www.freecodecamp.org/learn/scientific-computing-with-python/python-for-everybody/intermediate-strings
 
