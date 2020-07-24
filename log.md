@@ -1,11 +1,10 @@
 # 100 Days Of Code - Log
 
-### Day 0: July 24, 2020 
-##### (delete me or comment me out)
+### Day 1: July 24, 2020 
 
-**Today's Progress**: 
+**Today's Progress**: Working through Python for Everybody in FreeCodeCamp. Many focusing on While loops.
 
-**Thoughts:** 
+**Thoughts:** Struggle to understand fully how looping and iterations work. Once I get the hang of this it should make coding far easier.
 
 **Link to work:** 
 
