@@ -17,3 +17,12 @@
 **Thoughts:** Slowly getting the hang of the connection. One thing I could not quite interpret is the self.tail.next = x component. Apart from that it all makes sense.
 
 **Link to work:** https://www.freecodecamp.org/learn/scientific-computing-with-python/python-for-everybody/reading-files
+
+
+### Day 3: July 26, 2020 
+
+**Today's Progress**: Continued course on binary trees in Stackskills. This looked at the rules of a binary tree, understanding decision tree, also looked at in-order, pre-order and post-order traversal. From this I went through the code in Python and commented the process.
+
+**Thoughts:** After revising the code multiple times I was starting to understand the process and how it all links together. I also started using comments for each line to break it down into smaller bits.
+
+**Link to work:** 
