@@ -26,3 +26,15 @@
 **Thoughts:** After revising the code multiple times I was starting to understand the process and how it all links together. I also started using comments for each line to break it down into smaller bits.
 
 **Link to work:** 
+
+
+### Day 4: July 27, 2020 
+
+**Today's Progress**: Continued learning about Binary trees in Stackskill course. This included the following:
+* Deleting leaf nodes from a binary tree
+* Deleting nodes with one child
+* Started looking at deleting nodes with 2 children
+
+**Thoughts:** Much the same as day 3. Code was a bit more complex than yesterday so needed to run through it a few times to ensure that it started making sense.
+
+**Link to work:** 
