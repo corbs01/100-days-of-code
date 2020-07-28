@@ -38,3 +38,15 @@
 **Thoughts:** Much the same as day 3. Code was a bit more complex than yesterday so needed to run through it a few times to ensure that it started making sense.
 
 **Link to work:** 
+
+
+### Day 5: July 28, 2020 
+
+**Today's Progress**:
+Continued course on Python Programming, CS, Algorithms and Data Structures.
+Looked at the flow in more details for deleting a node with 2 children. In process of starting a job schedular project in the same course.
+
+
+**Thoughts:** Got a touched lost when revisiting code for completing a pre-order traversal. Will re-look at the video and explore further.
+
+**Link to work:** 
