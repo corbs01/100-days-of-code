@@ -47,6 +47,17 @@ Continued course on Python Programming, CS, Algorithms and Data Structures.
 Looked at the flow in more details for deleting a node with 2 children. In process of starting a job schedular project in the same course.
 
 
-**Thoughts:** Got a touched lost when revisiting code for completing a pre-order traversal. Will re-look at the video and explore further.
+**Thoughts:** Got a touched lost when revisiting code for completing a in-order traversal. Will re-look at the video and explore further.
+
+**Link to work:** 
+
+
+### Day 6: July 29, 2020 
+
+**Today's Progress**:
+Revised the code for a binary search tree. This looked at adding a node to the tree and putting this in order using an in-order traversal. The course has not provided a code solution for pre and post order traversal so have started working on that and will hope to have an answer over the next couple of days
+
+
+**Thoughts:** I decided I would re-write the code so I had a better grasp of what I was learning first hand. Once written it made sense but have to look at solution first. Hopefully over the next 10-15 days I will write this off memory and from general knowledge.
 
 **Link to work:** 
