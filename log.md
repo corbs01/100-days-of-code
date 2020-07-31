@@ -61,3 +61,24 @@ Revised the code for a binary search tree. This looked at adding a node to the t
 **Thoughts:** I decided I would re-write the code so I had a better grasp of what I was learning first hand. Once written it made sense but have to look at solution first. Hopefully over the next 10-15 days I will write this off memory and from general knowledge.
 
 **Link to work:** 
+
+
+### Day 7: July 30, 2020 
+
+**Today's Progress**:
+Finally got the code correct for pre-order traversal. About 70% confident of process. Started post-order traversal, still having a few issues with it at this stage.
+
+**Thoughts:** Now that I have watched a fair amount of coding on video, I wanted to start practising it and understanding in more detail what was happening in the process. A slow start but good to iterate through it mentally.
+
+**Link to work:** 
+
+
+### Day 8: July 31, 2020 
+
+**Today's Progress**:
+Solved the code for post-order traversal in python using the recursive method. Felt great as this was code that wasn’t copied from course. Also rewrote code for finding a value in BST. Tomorrow I will look at deleting nodes
+
+
+**Thoughts:** Made more in-roads today on understanding the code and utilising it to create a function. Felt extremely great doing this as it was the first time that code was not replicated to produce an outcome.
+
+**Link to work:** 
