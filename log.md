@@ -82,3 +82,15 @@ Solved the code for post-order traversal in python using the recursive method. F
 **Thoughts:** Made more in-roads today on understanding the code and utilising it to create a function. Felt extremely great doing this as it was the first time that code was not replicated to produce an outcome.
 
 **Link to work:** 
+
+
+
+### Day 9 & 10: August 1 & 2, 2020 
+
+**Today's Progress**:
+Finished off looking at the code for finding a value in BST. Also went through all the steps for deleting a node. Next I will take a look at the project and the work-through for it.
+
+
+**Thoughts:** The code is making far more sense now everytime I slowly work through it. By checking the process when there is an error has really helped me understand and fix where I have gone wrong.
+
+**Link to work:** 
