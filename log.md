@@ -94,3 +94,25 @@ Finished off looking at the code for finding a value in BST. Also went through a
 **Thoughts:** The code is making far more sense now everytime I slowly work through it. By checking the process when there is an error has really helped me understand and fix where I have gone wrong.
 
 **Link to work:** 
+
+
+
+### Day 11: August 3, 2020 
+
+**Today's Progress**:
+
+
+**Thoughts:** 
+
+**Link to work:** 
+
+
+### Day 12: August 4, 2020 
+
+**Today's Progress**: Continued with job scheduler project. Looked at input functions and adding code to a txt file. Next I will look at connecting this through to a BST.
+
+
+**Thoughts:** Slowly going through differenet elements of job scheduler project to ensure I understand the full process. Most makes sense at this stage.
+
+**Link to work:**
+
